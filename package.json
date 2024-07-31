@@ -2,7 +2,8 @@
   "name": "resources4u",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://shrayyh.github.io/Resources4u/",
+  "homepage": "https://shrayyh.github.io/Resources4u",
+
   "dependencies": {
     "@babel/plugin-transform-class-properties": "^7.24.7",
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.24.7",
