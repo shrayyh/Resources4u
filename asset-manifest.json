@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Resources4u/static/css/main.1f40723d.chunk.css",
+    "main.js": "/Resources4u/static/js/main.38fb7f3a.chunk.js",
+    "main.js.map": "/Resources4u/static/js/main.38fb7f3a.chunk.js.map",
+    "runtime~main.js": "/Resources4u/static/js/runtime~main.a9344ec2.js",
+    "runtime~main.js.map": "/Resources4u/static/js/runtime~main.a9344ec2.js.map",
+    "static/js/2.5f7e188d.chunk.js": "/Resources4u/static/js/2.5f7e188d.chunk.js",
+    "static/js/2.5f7e188d.chunk.js.map": "/Resources4u/static/js/2.5f7e188d.chunk.js.map",
+    "index.html": "/Resources4u/index.html",
+    "precache-manifest.95018b5cc6abdd6a3f4893eba5282e57.js": "/Resources4u/precache-manifest.95018b5cc6abdd6a3f4893eba5282e57.js",
+    "service-worker.js": "/Resources4u/service-worker.js",
+    "static/css/main.1f40723d.chunk.css.map": "/Resources4u/static/css/main.1f40723d.chunk.css.map"
+  }
+}
